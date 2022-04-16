@@ -14,7 +14,7 @@
   align-items: center;
   height: 100vh;
   position: relative;
-  background-color: #08313a;
+  background-color: #050833;
   text-align: center;
   padding: 0 2em;
 }
@@ -26,7 +26,7 @@
   margin: 0;
   padding-bottom: 0.5rem;
   letter-spacing: 0.3rem;
-  color: #5cd85a;
+  color: #e44650;
   transition: all 0.3s ease;
   z-index: 3;
 }

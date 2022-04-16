@@ -6,13 +6,13 @@ window.onload = function () {
 };
 var particles = Particles.init({
   selector: ".background",
-  color: ["#21b6a8", "#a3ebb1", "#ff0266"],
+  color: ["#54086b", "#00bec5", "#ff0bac"],
   connectParticles: true,
   responsive: [
     {
       breakpoint: 768,
       options: {
-        color: ["#21b6a8", "#a3ebb1", "#ff0266"],
+        color: ["#54086b", "#00bec5", "#ff0bac"],
         maxParticles: 60,
         connectParticles: true
       }
